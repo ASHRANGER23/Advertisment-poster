@@ -3,34 +3,36 @@ body{
 }
 .cloud{
     position: absolute;
-    padding-left: 410px;
+    padding-left: 25rem;
     left: 0px;
     top: 0px;
     z-index: -1;
+    text-align: center;
 }
 .top{
     position: absolute;
-    padding-left: 410px;
+    padding-left: 25rem;
     left: 0px;
     top: 0px;
     z-index: -1;
+    text-align: center;
 }
 .bg{
-    position: relative;
+    position: absolute;
     height:1350px;
-    width: 1080;
-    padding-left: 0;
+    width: 1080px;
+    padding-left: 25rem;
     padding-right: 0;
     margin-left: auto;
     margin-right: auto;
-    display: block;
     z-index: -2;
     text-align: center;
 }
 .bottom{
     position: absolute;
-    padding-left: 400px;
+    padding-left: 25rem;
     left: 0px;
     top: 0px;
     z-index: -1;
+    text-align: center;
 }
